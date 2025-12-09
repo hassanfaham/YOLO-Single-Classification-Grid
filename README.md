@@ -58,7 +58,7 @@ The project includes scripts for:
     - The script trains YOLO model, evaluates it, and computes precision, recall, F-scores, and inference speed.
 
 ## Demo
-[![Demo Video](https://raw.githubusercontent.com/hassanfaham/YOLO-Single-Classification-Grid/main/Assets/demo_thumbnail.jpg)](https://vimeo.com/1145055135?fl=ip&fe=ec)
+[![Demo Video](https://raw.githubusercontent.com/hassanfaham/YOLO-Single-Classification-Grid/main/Assets/demo_thumbnail.jpg)](https://user-images.githubusercontent.com/your-username/your-repo/path-to-video/demo.mp4)
 
 
 ## File Structure
