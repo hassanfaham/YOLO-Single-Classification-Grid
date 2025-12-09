@@ -1,0 +1,33 @@
+{
+    "project": "yolo_single_classification_grid",
+    "initial_model_path": "./models/single_perspective_cls.pt",
+
+    "watch_single_folder_path": "./destination_images/single_folder",
+
+    "queue_size": 120,
+
+    "prediction_parameters": {
+        "classes": null,
+        "iou": 0.5,
+        "conf": 0.5
+    },
+
+    "plotting_parameters": {
+        "show_conf": false,
+        "show_labels": true
+    },
+
+    "status_logic": {
+        "nok": ["nok"],
+        "ok": ["ok"]
+    },
+
+    "grid_config": {
+        "rows": 14,
+        "columns": 8,
+        "total_pieces": 112
+    },
+    "enable_grid": true
+}
+
+
