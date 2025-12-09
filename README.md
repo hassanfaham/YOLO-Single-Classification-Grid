@@ -19,7 +19,7 @@ The project includes scripts for:
 1. Clone the repository:
     ```bash
     git clone https://github.com/hassanfaham/YOLO-Single-Classification-Grid.git
-    cd your-repository
+    cd YOLO-Single-Classification-Grid
     ```
 
 2. Install dependencies:
@@ -58,7 +58,8 @@ The project includes scripts for:
     - The script trains YOLO model, evaluates it, and computes precision, recall, F-scores, and inference speed.
 
 ## Demo
-[![Demo Video](link-to-thumbnail-image)](link-to-your-demo-video)
+[![Demo Video](link-to-thumbnail-image)]([link-to-your-demo-video](https://raw.githubusercontent.com/hassanfaham/YOLO-Single-Classification-Grid/main/Assets/demo.mp4
+))
 
 ## File Structure
 
