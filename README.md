@@ -60,6 +60,7 @@ The project includes scripts for:
 ## Demo
 **Video is found in the Assets folder**
 ![Demo](https://raw.githubusercontent.com/hassanfaham/YOLO-Single-Classification-Grid/main/Assets/demo_thumbnail.jpg)
+![Demo](https://raw.githubusercontent.com/hassanfaham/YOLO-Single-Classification-Grid/main/Assets/demo_thumbnail2.jpg)
 
 
 
