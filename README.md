@@ -58,8 +58,12 @@ The project includes scripts for:
     - The script trains YOLO model, evaluates it, and computes precision, recall, F-scores, and inference speed.
 
 ## Demo
-[![Demo Video](link-to-thumbnail-image)]([link-to-your-demo-video](https://raw.githubusercontent.com/hassanfaham/YOLO-Single-Classification-Grid/main/Assets/demo.mp4
-))
+**Video is found in the Assets folder**
+![Demo](https://raw.githubusercontent.com/hassanfaham/YOLO-Single-Classification-Grid/main/Assets/demo_thumbnail.jpg)
+
+
+
+
 
 ## File Structure
 
@@ -70,8 +74,8 @@ The project includes scripts for:
 - `App files/fatal_error_handler.py`: Handles and logs fatal errors.
 - `App files/logger_config.py`: Configures the logging system for the app.
 - `App files/config.json`: Configuration file for the app.
-- `scripts/inference.py`: Script for performing inference on a folder of images using a pre-trained model.
-- `scripts/train_and_eval.py`: Script for training and evaluating a YOLOv8/YOLOv11 model.
+- `Scripts/inference.py`: Script for performing inference on a folder of images using a pre-trained model.
+- `Scripts/train_and_eval.py`: Script for training and evaluating a YOLOv8/YOLOv11 model.
 - `reqs`: A file listing the required dependencies for the project.
 
 ## Requirements
